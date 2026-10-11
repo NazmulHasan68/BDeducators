@@ -1,1 +1,1 @@
-﻿# BDeducators ss
+﻿# BDeducators 
